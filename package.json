@@ -28,7 +28,7 @@
     "@types/morgan": "^1.7.35",
     "@types/node": "^12.6.1",
     "concurrently": "^4.1.1",
-    "rimraf": "^2.6.3",
+    "rimraf": "^3.0.0",
     "ts-node-dev": "^1.0.0-pre.40"
   }
 }
