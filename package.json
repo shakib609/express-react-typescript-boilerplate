@@ -24,7 +24,7 @@
     "typescript": "^3.5.3"
   },
   "devDependencies": {
-    "@types/express": "^4.17.0",
+    "@types/express": "^4.17.12",
     "@types/morgan": "^1.7.35",
     "@types/node": "^12.6.1",
     "concurrently": "^4.1.1",
